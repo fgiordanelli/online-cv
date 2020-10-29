@@ -186,16 +186,16 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python
+      - name: Python - /Pycharm/Jupyter
         level: 85%
 
-      - name: R
+      - name: R - /Rstudio/Jupyter
         level: 100%
 
-      - name: SAS
+      - name: SAS - /Enterprise Guide/SAS Universitiy
         level: 100%
 
-      - name: SQL
+      - name: SQL - /Postgree/MYSQL/Oracle/SQL Server
         level: 100%
 
       - name: Excel
@@ -204,7 +204,7 @@ skills:
       - name: VBA
         level: 100%
         
-      - name: Machine Learning
+      - name: Machine Learning - Supervised/Unsupervised
         level: 80%
 
 footer: >
