@@ -123,6 +123,16 @@ experiences:
         - Statistical Modeling – Logistic regression (elasticity models) and technical models of insurance pricing (frequency and severity)
         
         . Goals achieved: Creation of life report that showed several problems in previous management. Improvement of the auto and residential emission and loss base, creating useful variables and flags for various statistical models. Dynamic report creation for commercial price with charts comparing insurers, maps, rankings, boxplots, and market position.
+    - role: Trainee
+      time: 2012 - 2014
+      company: Mongeral Aegon
+      details: |
+        - Creation of life insurance and private welfare simulators 
+        - Studies with the evolution of the disbursement and the number of annual death, over time, until the survival of the last participant 
+        - Technical assistance to doubts and complaints from SUSEP (Brazilian Institute of Insurance), PROCON (Brazilian Consumer Rights) and Ombudsman
+        - Technical studies (accidents, persistence, boards)
+        
+        . Goals achieved: Creation of the statistical table according to the new fully automated SUSEP (Brazilian Institute of Insurance) rules made in VBA with ACCESS. Creation of age adjustment simulator using inflationary index and mortality tables, all in VBA. In 8 months I was promoted from intern to trainee.
 projects:
     title: Projects
     intro: >
