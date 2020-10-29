@@ -100,17 +100,17 @@ experiences:
         - Creation of dynamic reports via R – SHINY and R MARKDOWN (Dynamic Rates, Dynamic Maps, Dynamic Market Position)
         
         . Goals achieved: Creation of dynamic reports in MARKDOWN to overview bad risks
-    - role: UI Developer
+    - role: Fraud Sn Analyst
       time: 2012 - 2014
-      company: Amazon, London
+      company: Allianz Insurance
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+      - Database analysis via SAS, SQL and BIG QUERY
+      - Creation of dynamic reports via R – SHINY and R MARKDOWN (Dynamic Rates, Dynamic Maps, Dynamic Market Position)
+      - Machine learning applied (supervised and unsupervised) to prevent and detect fraud in auto and health
+      -	Benford law applied to detect fraud in auto and health
+      - Many BI’s to monitorate fraud in SAS ANALYTICS
+      
+      . Goals achieved - Application of Machine Learning to detect fraud and statistical laws, such as a benford law.
 projects:
     title: Projects
     intro: >
