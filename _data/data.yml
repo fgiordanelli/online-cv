@@ -111,6 +111,18 @@ experiences:
         - Many BI’s to monitorate fraud in SAS ANALYTICS
       
         . Goals achieved  Application of Machine Learning to detect fraud and statistical laws, such as a benford law.
+    - role: Pricing Jr Analyst
+      time: 2012 - 2014
+      company: Generali Insurance
+      details: |
+        - Insurance programming/Pricing/Statistical modeling – GLM (generalized linear models) for auto and residential
+        - Optimization of several processes with VBA in order to treat and automated files and data  
+        - Database analysis via SAS – SQL/procedures/SAS data step
+        - Creation of dynamic reports via R – SHINY (Dynamic Rates, Dynamic Maps, Dynamic Market Position)
+        - Creation and updating of several KPI’s 
+        - Statistical Modeling – Logistic regression (elasticity models) and technical models of insurance pricing (frequency and severity)
+        
+        . Goals achieved: Creation of life report that showed several problems in previous management. Improvement of the auto and residential emission and loss base, creating useful variables and flags for various statistical models. Dynamic report creation for commercial price with charts comparing insurers, maps, rankings, boxplots, and market position.
 projects:
     title: Projects
     intro: >
