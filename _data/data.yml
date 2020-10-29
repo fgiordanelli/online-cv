@@ -48,8 +48,13 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Strategic Planning – Scrum methodology, acting as Product Owner
-      Strong knowledge in statistical software and languages as R, PYTHON, SAS, SQL, VBA
+     - Strategic Planning – Scrum methodology, acting as Product Owner
+      
+     - Strong knowledge in statistical software and languages as R, PYTHON, SAS, SQL, VBA
+      
+     - Strong knowledge in BI software as POWER BI, TABLEAU, SAP BI, SAS ANALYTICS, BIG QUERY
+      
+     - Statistical Modeling – Logistic Regression, Elasticity Models (own and cross), Clustering, technical models of pricing and multivariate analysis
 education:
     #- degree: MSc in Computer Science
     #  university: University of London
