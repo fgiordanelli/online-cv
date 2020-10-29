@@ -89,17 +89,17 @@ experiences:
           - Business comparative statistics tests: t test, elasticity model, clustering, among others
           
           . Goals achieved: Development of reports to improve Sell-in and Sell-out applied to machine learning          
-    - role: Senior Software Engineer
+    - role: Underwriter Sn analyst
       time: 2014 - 2015
-      company: Google, London
+      company: Azul Insurance
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        - Scrum methodology, acting as Product Owner
+        - Database analysis via SAS, SQL and R/Python
+        - Machine learning applied (supervised and unsupervised) to prevent and detect bad risks
+        - Many BI’s to monitorate TABLEU and SAP BI
+        - Creation of dynamic reports via R – SHINY and R MARKDOWN (Dynamic Rates, Dynamic Maps, Dynamic Market Position)
+        
+        . Goals achieved: Creation of dynamic reports in MARKDOWN to overview bad risks
     - role: UI Developer
       time: 2012 - 2014
       company: Amazon, London
