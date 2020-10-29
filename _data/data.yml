@@ -48,22 +48,21 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      
+
 education:
     - degree: MSc in Computer Science
       university: University of London
       time: 2011 - 2012
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
+      - Strategic Planning – Scrum methodology, acting as Product Owner
+      
+      - Strong knowledge in statistical software and languages as R, PYTHON, SAS, SQL, VBA
+      
+      - Strong knowledge in BI software as POWER BI, TABLEAU, SAP BI, SAS ANALYTICS, BIG QUERY
+      
+      - Statistical Modeling – Logistic Regression, Elasticity Models (own and cross), Clustering, technical models of pricing and multivariate analysis
+        
           - Bullet point
           - Bullet point
     - degree: BSc in Applied Mathematics
