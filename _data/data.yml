@@ -104,13 +104,13 @@ experiences:
       time: 2012 - 2014
       company: Allianz Insurance
       details: |
-      - Database analysis via SAS, SQL and BIG QUERY
-      - Creation of dynamic reports via R – SHINY and R MARKDOWN (Dynamic Rates, Dynamic Maps, Dynamic Market Position)
-      - Machine learning applied (supervised and unsupervised) to prevent and detect fraud in auto and health
-      -	Benford law applied to detect fraud in auto and health
-      - Many BI’s to monitorate fraud in SAS ANALYTICS
+        - Database analysis via SAS, SQL and BIG QUERY
+        - Creation of dynamic reports via R – SHINY and R MARKDOWN (Dynamic Rates, Dynamic Maps, Dynamic Market Position)
+        - Machine learning applied (supervised and unsupervised) to prevent and detect fraud in auto and health
+        - Benford law applied to detect fraud in auto and health
+        - Many BI’s to monitorate fraud in SAS ANALYTICS
       
-      . Goals achieved - Application of Machine Learning to detect fraud and statistical laws, such as a benford law.
+        . Goals achieved  Application of Machine Learning to detect fraud and statistical laws, such as a benford law.
 projects:
     title: Projects
     intro: >
