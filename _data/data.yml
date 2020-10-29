@@ -9,7 +9,7 @@ sidebar:
     # Profile information
     name: Fabrício Giordanelli
     tagline: Data Scientist Consultant
-    avatar: DSC_0018 (1).png.JPG  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    avatar: eu.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: fabricio.giordanelli@gmail.com
