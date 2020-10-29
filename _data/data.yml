@@ -169,7 +169,7 @@ skills:
 
     toolset:
       - name: Python
-        level: 100%
+        level: 85%
 
       - name: R
         level: 100%
@@ -185,6 +185,9 @@ skills:
 
       - name: VBA
         level: 100%
+        
+      - name: Machine Learning
+        level: 80%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
