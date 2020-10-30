@@ -171,26 +171,26 @@ projects:
         tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
 
 publications:
-    title: Publications
+    title: Cursos
     intro: |
       You can list your publications in this section. Lorem ipsum dolor sit
       amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
       bibendum fringilla a eu lectus.
     papers:
-      - title: The Art of Computer Programming
+      - title: R com RStudio do ZERO ao RELATÓRIO
         link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+        authors: Fabrício Giordanelli
+        #conference: Addison-Wesley, 1968
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
+      - title: SAS do ZERO ao RELATÓRIO
         link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+        authors: Fabrício Giordanelli
+        #conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
 
-      - title: A syntax directed compiler for Algol 60
+      - title: Python com Jupyter Notebook do ZERO ao RELATÓRIO
         link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+        authors: Fabrício Giordanelli
+        #conference: "Comm. ACM 4 (1961), 51–55"
 
 skills:
     title: Skills &amp; Proficiency
