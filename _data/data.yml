@@ -187,7 +187,12 @@ publications:
         authors: Fabrício Giordanelli
         #conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
 
-      - title: Python com Jupyter Notebook do ZERO ao RELATÓRIO
+      - title: PYTHON com Jupyter Notebook do ZERO ao RELATÓRIO
+        link: "#"
+        authors: Fabrício Giordanelli
+        #conference: "Comm. ACM 4 (1961), 51–55"
+        
+       - title: SQL com MYSQL do ZERO ao AVANÇADO
         link: "#"
         authors: Fabrício Giordanelli
         #conference: "Comm. ACM 4 (1961), 51–55"
