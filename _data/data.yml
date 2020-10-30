@@ -161,6 +161,14 @@ projects:
       - title: Machine learning in Fraud
         link: "#"
         tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+        
+      - title: Underwriting Function
+        link: "#"
+        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+        
+      - title: Logistic Regression for Insurance policies
+        link: "#"
+        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
 
 publications:
     title: Publications
