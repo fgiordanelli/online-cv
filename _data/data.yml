@@ -83,12 +83,12 @@ experiences:
       time: 2020 - Present
       company: Data Driven Consulting
       details: |
-          - **Database** analysis via SQL and R/Python
+          - Database analysis via SQL and R/Python
           - Machine learning applied (supervised and unsupervised) to improve Sell-in and Sell-out
           - Elasticity Model – Own and Cross
           - Business comparative statistics tests: t test, elasticity model, clustering, among others
           
-          . Goals achieved: Development of reports to improve Sell-in and Sell-out applied to machine learning          
+          . **Goals achieved**: Development of reports to improve Sell-in and Sell-out applied to machine learning          
     - role: Underwriter Sn analyst
       time: 2019 - 2020
       company: Azul Insurance
@@ -99,7 +99,7 @@ experiences:
         - Many BI’s to monitorate TABLEU and SAP BI
         - Creation of dynamic reports via R – SHINY and R MARKDOWN (Dynamic Rates, Dynamic Maps, Dynamic Market Position)
         
-        . Goals achieved: Creation of dynamic reports in MARKDOWN to overview bad risks
+        . **Goals achieved**: Creation of dynamic reports in MARKDOWN to overview bad risks
     - role: Fraud Sn Analyst
       time: 2018 - 2019
       company: Allianz Insurance
@@ -110,7 +110,7 @@ experiences:
         - Benford law applied to detect fraud in auto and health
         - Many BI’s to monitorate fraud in SAS ANALYTICS
       
-        . Goals achieved  Application of Machine Learning to detect fraud and statistical laws, such as a benford law.
+        . **Goals achieved**  Application of Machine Learning to detect fraud and statistical laws, such as a benford law.
     - role: Pricing Jr Analyst
       time: 2017 - 2018
       company: Generali Insurance
@@ -122,7 +122,7 @@ experiences:
         - Creation and updating of several KPI’s 
         - Statistical Modeling – Logistic regression (elasticity models) and technical models of insurance pricing (frequency and severity)
         
-        . Goals achieved: Creation of life report that showed several problems in previous management. Improvement of the auto and residential emission and loss base, creating useful variables and flags for various statistical models. Dynamic report creation for commercial price with charts comparing insurers, maps, rankings, boxplots, and market position.
+        . **Goals achieved**: Creation of life report that showed several problems in previous management. Improvement of the auto and residential emission and loss base, creating useful variables and flags for various statistical models. Dynamic report creation for commercial price with charts comparing insurers, maps, rankings, boxplots, and market position.
     - role: Trainee
       time: 2013 - 2015
       company: Mongeral Aegon
@@ -132,7 +132,7 @@ experiences:
         - Technical assistance to doubts and complaints from SUSEP (Brazilian Institute of Insurance), PROCON (Brazilian Consumer Rights) and Ombudsman
         - Technical studies (accidents, persistence, boards)
         
-        . Goals achieved: Creation of the statistical table according to the new fully automated SUSEP (Brazilian Institute of Insurance) rules made in VBA with ACCESS. Creation of age adjustment simulator using inflationary index and mortality tables, all in VBA. In 8 months I was promoted from intern to trainee.
+        . **Goals achieved**: Creation of the statistical table according to the new fully automated SUSEP (Brazilian Institute of Insurance) rules made in VBA with ACCESS. Creation of age adjustment simulator using inflationary index and mortality tables, all in VBA. In 8 months I was promoted from intern to trainee.
 projects:
     title: Projects
     intro: >
