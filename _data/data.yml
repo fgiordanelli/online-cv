@@ -186,16 +186,16 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python - /Pycharm/Jupyter
+      - name: Python
         level: 85%
-
-      - name: R - /Rstudio/Jupyter
+       
+      - name: R
         level: 100%
 
-      - name: SAS - /Enterprise Guide/SAS Universitiy
+      - name: SAS
         level: 100%
 
-      - name: SQL - /Postgree/MYSQL/Oracle/SQL Server
+      - name: SQL
         level: 100%
 
       - name: Excel
