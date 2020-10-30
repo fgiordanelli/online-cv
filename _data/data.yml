@@ -83,14 +83,14 @@ experiences:
       time: 2020 - Present
       company: Data Driven Consulting
       details: |
-          - Database analysis via SQL and R/Python
+          - **Database** analysis via SQL and R/Python
           - Machine learning applied (supervised and unsupervised) to improve Sell-in and Sell-out
           - Elasticity Model – Own and Cross
           - Business comparative statistics tests: t test, elasticity model, clustering, among others
           
           . Goals achieved: Development of reports to improve Sell-in and Sell-out applied to machine learning          
     - role: Underwriter Sn analyst
-      time: 2014 - 2015
+      time: 2019 - 2020
       company: Azul Insurance
       details: |
         - Scrum methodology, acting as Product Owner
@@ -101,7 +101,7 @@ experiences:
         
         . Goals achieved: Creation of dynamic reports in MARKDOWN to overview bad risks
     - role: Fraud Sn Analyst
-      time: 2012 - 2014
+      time: 2018 - 2019
       company: Allianz Insurance
       details: |
         - Database analysis via SAS, SQL and BIG QUERY
@@ -112,7 +112,7 @@ experiences:
       
         . Goals achieved  Application of Machine Learning to detect fraud and statistical laws, such as a benford law.
     - role: Pricing Jr Analyst
-      time: 2012 - 2014
+      time: 2017 - 2018
       company: Generali Insurance
       details: |
         - Insurance programming/Pricing/Statistical modeling – GLM (generalized linear models) for auto and residential
@@ -124,7 +124,7 @@ experiences:
         
         . Goals achieved: Creation of life report that showed several problems in previous management. Improvement of the auto and residential emission and loss base, creating useful variables and flags for various statistical models. Dynamic report creation for commercial price with charts comparing insurers, maps, rankings, boxplots, and market position.
     - role: Trainee
-      time: 2012 - 2014
+      time: 2013 - 2015
       company: Mongeral Aegon
       details: |
         - Creation of life insurance and private welfare simulators 
